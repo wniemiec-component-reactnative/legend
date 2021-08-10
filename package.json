@@ -1,6 +1,6 @@
 {
   "name": "@wniemiec-component-reactnative/legend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Displays the meaning of a set of colors.",
   "main": "index.js",
   "repository": {
