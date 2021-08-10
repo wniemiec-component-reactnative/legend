@@ -1,0 +1,23 @@
+{
+  "name": "@wniemiec-component-reactnative/legend",
+  "version": "1.0.0",
+  "description": "Displays the meaning of a set of colors.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wniemiec-components-reactnative/legend.git"
+  },
+  "keywords": [
+    "wniemiec",
+    "component",
+    "reactnative",
+    "legend",
+    "color-mapping"
+  ],
+  "author": "William Niemiec <williamniemiec@hotmail.com> (https://www.linkedin.com/in/williamniemiec)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wniemiec-components-reactnative/legend/issues"
+  },
+  "homepage": "https://github.com/wniemiec-components-reactnative/legend#readme"
+}
