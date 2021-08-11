@@ -11,7 +11,7 @@
 import React from 'react';
 import { Text } from 'react-native';
 
-export default function Label({ fgColor }) {
+export default function Label({ children, fgColor }) {
   return (
     <Text style={{ color: fgColor }}>
       {children}

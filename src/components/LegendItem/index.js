@@ -14,9 +14,9 @@ import styles from './styles';
 import Box from '../Box';
 import Label from '../Label';
 
-export default function LegendItem({ key, text, bgColor, fgColor }) {
+export default function LegendItem({ text, bgColor, fgColor }) {
   return (
-    <View key={key} style={styles.legendItem}>
+    <View style={styles.legendItem}>
       <Box bgColor={bgColor} />
       <Label fgColor={fgColor}>
         {text}
